@@ -1,0 +1,10 @@
+ftp:
+  host: 114.116.233.115
+  port: 21
+  username: ftpadmin
+  password: tuanzhang1!
+  remoteDir: /var/ftp/diyuan/
+  localDir: /home/soldier/Downloads/diyuan
+  basePath: /home/ftpuser/diyuan
+  baseUrl: http://114.116.233.115/picture
+  imageBaseUrl: http://114.116.233.115/picture
